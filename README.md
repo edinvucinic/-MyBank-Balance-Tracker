@@ -35,6 +35,5 @@ Feedback
 
 For any feedback or issues related to the app, please submit an issue. This app is work in progress and  it will be slightly modified.
 
-Thank you for exploring our Bank Balance Tracker App! We aim to provide a user-friendly banking experience through this simple yet effective web application.
-
+Thank you for exploring Bank Balance Tracker App! 
 
