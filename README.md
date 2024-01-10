@@ -17,6 +17,7 @@ Use "js" as username and "1111" as  PIN.
 
 
 Usage
+
 View Current Balance: On the dashboard, find your current balance displayed prominently.
 Transfer Money: Navigate to the transfer section, fill in the required details, and complete the transfer.
 Request Loan: Go to the loan section, specify the loan amount, and submit your request.
@@ -27,6 +28,7 @@ Installation
 As the Bank Balance Tracker is a web-based app, there's no installation required. Simply access the app via the provided link.
 
 Contributing
+
 We welcome contributions! If you have suggestions or want to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 Feedback
