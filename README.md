@@ -32,6 +32,7 @@ Contributing
 We welcome contributions! If you have suggestions or want to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 Feedback
+
 For any feedback or issues related to the app, please submit an issue. This app is work in progress and  it will be slightly modified.
 
 Thank you for exploring our Bank Balance Tracker App! We aim to provide a user-friendly banking experience through this simple yet effective web application.
